@@ -1,4 +1,4 @@
-import io.getstream.models.App;
+import io.getstream.chat.java.models.App;
 
 class PrintApp {
     static void main(String[] args) {
